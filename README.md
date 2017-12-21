@@ -1,6 +1,8 @@
 # ascension-map-maker
 
-A map maker built in Processing for my 2012 college final project, [Ascension](https://github.com/gkjohnson/ascension-game).
+A utilitarian-looking map maker built in Processing for my 2012 college final project, [Ascension](https://github.com/gkjohnson/ascension-game).
+
+![screenshot](./docs/example.png)
 
 ## Controls
 
